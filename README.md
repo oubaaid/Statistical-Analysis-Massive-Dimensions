@@ -255,6 +255,8 @@ leaflet(station_positions) %>%
                    label = ~paste(rownames(bike_data), " - Cluster:", kmeans_result$cluster),
                    fillOpacity = 0.9)
 ```
+![image](https://github.com/user-attachments/assets/83447f74-8c6e-4d92-bac9-f4d37654be6e)
+
 
 ### 4
 Summary
@@ -267,6 +269,8 @@ boxplot(mean_availability ~ hierarchical_clusters, data = bike_data,
 library(reshape2)
 library(plotly)
 ```
+![image](https://github.com/user-attachments/assets/3ce034d6-b162-4b2c-85e3-d1f3d4cc1a0a)
+
 
 # Prepare data for plotting
 ```
