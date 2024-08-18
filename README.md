@@ -1,4 +1,4 @@
-# Statistical-Analysis-High-D-DSTI
+# Statistical-Analysis-Massive-Dimension
 ## Question 1 :
 ### 1.1 Describe the general setup of resampling techniques and explain how it can be used for parameter tuning.
 
